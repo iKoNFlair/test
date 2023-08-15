@@ -1,0 +1,5 @@
+{{#user}
+Name: Ritik Kumar Pillai
+Skills: HTML, CSS, JS, React.js, Node.js, Express.js, MongoDb, C++
+Email: ritikpillai8@gmail.com
+{{/user}}
